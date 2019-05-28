@@ -1,13 +1,13 @@
-package com.spartaglobal.TDDSpringApp;
+package com.spartaglobal.productservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TddSpringAppApplication {
+public class ProductserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TddSpringAppApplication.class, args);
+		SpringApplication.run(ProductserviceApplication.class, args);
 	}
 
 }
